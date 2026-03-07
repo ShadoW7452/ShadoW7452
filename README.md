@@ -1,98 +1,85 @@
-<h1 align="center">🟢 SHADOW7452 🟢</h1><p align="center">
-Red Team | Pentester | Bug Bounty Hunter
-</p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Red+Team+Operator;Pentester;Bug+Bounty+Hunter;Web+Security+Researcher;Always+Learning+Always+Hunting"/>
-</p>---
+<h1 align="center">⚔️ ShadoW7452 ⚔️</h1>
+<p align="center">
+  <b>Recon in Progress | Web Security | Pentester | Bug Bounty Hunter</b>
+</p>
 
-🧠 WHOAMI
+<p align="center">
+  Think offensive. Build defensive. Recon. Enumerate. Test. Report.
+</p>
 
-┌──(shadow㉿matrix)-[~/]
-└─$ whoami
-
-Name : ShadoW7452
-Role : Red Team Operator
-Focus: Web Security / Bug Bounty
-OS   : Linux
-Status : Hunting vulnerabilities...
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Web+Security+Researcher;Bug+Bounty+Hunter;Pentester+%7C+Recon+Automation;Building+Tools+for+Hackers+and+Defenders" alt="Typing SVG" />
+</p>
 
 ---
 
-⚔️ SKILLS
+## 🧠 About Me
 
-Reconnaissance
-Subdomain Enumeration
-Web Exploitation
-Access Control Testing
-Automation Scripts
-Payload Crafting
+```bash
+$ whoami
 
----
+> Name       : ShadoW7452
+> Role       : Pentester | Bug Bounty Hunter | Security Researcher
+> Focus      : Web Security, Recon Automation, API Testing, IDOR, Upload Attack Surface
+> Specialty  : Offensive Security Tooling & Bug Bounty Workflow
+> Status     : Recon in progress...
+🎯 Current Focus
+🌐 Web Application Security
+🔎 Recon Automation
+🕷️ Attack Surface Mapping
+🔐 API Security Testing
+📤 File Upload Vulnerability Research
+🧩 IDOR & Access Control Testing
+⚔️ Bug Bounty Tool Development
+🛠️ Arsenal
+Languages
+�
+￼ 
 
-🧰 TOOLS
+Tools & Platforms
+�
+￼ 
 
-Burp Suite
-Nmap
-SQLmap
-Nuclei
-FFUF
-Subfinder
-Amass
-Metasploit
+Security Workflow
+Recon & Enumeration
+Google Dorking
+API Endpoint Discovery
+Parameter Mining
+Upload Surface Analysis
+Authorization Testing
+Manual Validation & Reporting
+🚀 Featured Projects
+🔍 D0rk-Supr3me
+All-in-One Google Dorking & Recon toolkit.
+🕶️ Ph4NT0m-R3c0N
+Bug bounty hunter framework for reconnaissance and attack surface discovery.
+📤 UpL04D-HuNT3R
+Upload endpoint discovery engine for pentesters and bug bounty hunters.
+🧬 meta-idor-hunter
+Advanced red team tool for detecting IDOR issues across APIs and integrations.
+📱 proxydroid
+Android mobile web debugging & traffic inspection suite.
+📊 GitHub Stats
+�
+￼ ￼ 
 
----
+�
+￼ 
 
-💻 LANGUAGES
+🧭 Philosophy
+Recon first.
+Noise later.
 
-Python
-Bash
-JavaScript
+Automate what is repeatable.
+Think like an attacker.
+Validate like a researcher.
+Report like a professional.
+🌍 Connect
+�
+Portfolio • X • YouTube • Instagram • Facebook 
 
----
-
-🏴 BUG BOUNTY
-
-HackerOne
-Bugcrowd
-Intigriti
-YesWeHack
-
----
-
-🧬 METHODOLOGY
-
-Recon → Enumeration → Fuzzing → Exploitation → Validation → Report
-
----
-
-📊 GITHUB STATS
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=chartreuse-dark&hide_border=true"/></p>---
-
-💻 TOP LANGUAGES
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&theme=chartreuse-dark&hide_border=true"/></p>---
-
-📌 FEATURED REPOSITORIES
-
-proxydroid
-D0rk-Supr3me
-meta-idor-hunter
-Ph4NT0m-R3c0N
-UpL04D-HuNT3R
-
----
-
-☠️ SECURITY QUOTE
-
-«"Security is not about trust.
-It is about verification."»
-
----
-
-🖥 TERMINAL
-
-root@matrix:~# recon
-root@matrix:~# enumerate
-root@matrix:~# exploit
-root@matrix:~# report
-root@matrix:~# repeat
+☕ Final Note
+> Stay stealthy.
+> Hack ethically.
+> Build sharp tools.
+> Keep hunting.
