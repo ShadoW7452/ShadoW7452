@@ -9,7 +9,7 @@
 ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
 ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
-</pre>---
+</pre>
 
 💻 Terminal
 
@@ -23,7 +23,7 @@ Offensive Security Researcher
 Pentester
 Bug Bounty Hunter
 
----
+
 
 🔴 Recon Modules
 
@@ -37,7 +37,7 @@ api-security
 idor-testing
 file-upload-exploitation
 
----
+
 
 🔴 Tools Arsenal
 
@@ -53,7 +53,7 @@ linux
 docker
 git
 
----
+
 
 🔴 Projects
 
@@ -66,7 +66,7 @@ UpL04D-HuNT3R
 meta-idor-hunter
 proxydroid
 
----
+
 
 🔴 Recon Progress
 
@@ -76,13 +76,13 @@ API Security          ███████████░░░░░░░░ 
 Bug Bounty Research   ████████████████░░░ 85%
 Tool Development      ████████████░░░░░░░ 65%
 
----
+
 
 📊 Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=tokyonight"/>
-</p>---
+</p>
 
 🌐 Network
 
@@ -94,7 +94,7 @@ youtube    → https://www.youtube.com/@ShadoW7452
 instagram  → https://instagram.com/ShadoW7452
 facebook   → https://facebook.com/ShadoW7452
 
----
+
 
 🔴 Philosophy
 
@@ -107,7 +107,7 @@ Automate what is repeatable
 Exploit responsibly
 Stay stealthy
 
----
+
 
 ┌──(shadow㉿github)-[~/status]
 └─$ echo "Building offensive security tools."
