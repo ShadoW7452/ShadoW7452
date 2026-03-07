@@ -1,5 +1,7 @@
-<h1 align="center">ShadoW7452</h1><p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=green&style=flat"/>
+<h1 align="center">⚔️ ShadoW7452</h1><p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=brightgreen&style=flat"/>
+</p><p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Initializing+Recon+System...;Scanning+Attack+Surface...;Pentester+%7C+Bug+Bounty+Hunter;Building+Offensive+Security+Tools"/>
 </p><pre>
 ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
 ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
@@ -8,6 +10,8 @@
 ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
 </pre>---
+
+💻 Terminal
 
 ┌──(shadow㉿github)-[~/profile]
 └─$ whoami
@@ -21,21 +25,21 @@ Bug Bounty Hunter
 
 ---
 
-🧠 Recon
+🧠 Recon Modules
 
-┌──(shadow㉿recon)-[~/focus]
+┌──(shadow㉿recon)-[~/modules]
 └─$ ls
 
-web-application-security
+web-security
 recon-automation
-attack-surface-discovery
-api-security-testing
-idor-vulnerabilities
+attack-surface-mapping
+api-security
+idor-testing
 file-upload-exploitation
 
 ---
 
-🛠 Arsenal
+🛠 Tools Arsenal
 
 ┌──(shadow㉿tools)-[~/arsenal]
 └─$ cat tools.txt
@@ -61,6 +65,16 @@ Ph4NT0m-R3c0N
 UpL04D-HuNT3R
 meta-idor-hunter
 proxydroid
+
+---
+
+📡 Recon Progress
+
+Recon Automation      ███████████████░░░░ 80%
+Web Pentesting        ██████████████░░░░░ 75%
+API Security          ███████████░░░░░░░░ 60%
+Bug Bounty Research   ████████████████░░░ 85%
+Tool Development      ████████████░░░░░░░ 65%
 
 ---
 
@@ -91,8 +105,9 @@ Recon first
 Enumerate everything
 Automate what is repeatable
 Exploit responsibly
+Stay stealthy
 
 ---
 
 ┌──(shadow㉿github)-[~/status]
-└─$ echo "Stay stealthy. Keep hunting."
+└─$ echo "Building offensive security tools."
