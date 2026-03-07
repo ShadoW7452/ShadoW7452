@@ -1,206 +1,107 @@
 <div align="center">
 
-<!-- MATRIX RAIN HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00ff41&height=200&section=header&text=ShadoW7452&fontSize=70&fontColor=00ff41&animation=glitch&fontAlignY=38&desc=INITIALIZING%20SECURE%20CONNECTION...&descAlignY=60&descSize=16&descColor=39d353"/>
+```
+\u2588\u2588\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557     \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2557   \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557
+\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u255a\u2550\u2550\u2588\u2588\u2554\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557    \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d
+\u2588\u2588\u2551  \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551   \u2588\u2588\u2551   \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551    \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551     \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2554\u2588\u2588\u2557 \u2588\u2588\u2551\u2588\u2588\u2551     \u2588\u2588\u2588\u2588\u2588\u2557  
+\u2588\u2588\u2551  \u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551   \u2588\u2588\u2551   \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551    \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551     \u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2550\u255d  \u2588\u2588\u2551\u255a\u2588\u2588\u2557\u2588\u2588\u2551\u2588\u2588\u2551     \u2588\u2588\u2554\u2550\u2550\u255d  
+\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d\u2588\u2588\u2551  \u2588\u2588\u2551   \u2588\u2588\u2551   \u2588\u2588\u2551  \u2588\u2588\u2551    \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u255a\u2588\u2588\u2588\u2588\u2551\u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557
+\u255a\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u255d  \u255a\u2550\u255d   \u255a\u2550\u255d   \u255a\u2550\u255d  \u255a\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d  \u255a\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+```
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5BROOT%40shadow%7E%5D%24+whoami;Full-Stack+%2F+Backend+%2F+DevOps+%2F+Mobile;Web+%7C+Go+%7C+Rust+%7C+Python+%7C+Flutter;Building+in+the+shadows...;%5BROOT%40shadow%7E%5D%24+_" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Data+Scientist+%7C+Model+Builder+%F0%9F%A7%A0;Neural+Networks+%7C+Deep+Learning+Enthusiast;Turning+Data+into+Intelligence...;%24+python+train_model.py+--epochs+100)](https://git.io/typing-svg)
 
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=ShadoW7452&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/ShadoW7452?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)
-![GitHub User's stars](https://img.shields.io/github/stars/ShadoW7452?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=TOTAL+STARS&color=00ff41&labelColor=0d1117)
+![Visitor Badge](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00ff41&label=VISITORS&labelColor=000000)
+[![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=00ff41&labelColor=000000&label=FOLLOWERS)](https://github.com/USERNAME)
 
 </div>
 
 ---
 
-```
-███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗███████╗ ██╗ ██╗███████╗██████╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║╚════██║███║███║██╔════╝╚════██╗
-███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║    ██╔╝╚██║╚██║███████╗    ██╔╝
-╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║   ██╔╝  ██║ ██║╚════██║   ██╔╝ 
-███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝   ██║   ██║ ██║███████║   ██║  
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝   ╚═╝   ╚═╝ ╚═╝╚══════╝   ╚═╝  
-```
-
-<div align="center">
-
 ```bash
-[root@shadow ~]$ cat /etc/profile.d/about.sh
+$ whoami
 ```
 
-</div>
-
-```python
-class ShadoW7452:
-    def __init__(self):
-        self.alias       = "ShadoW"
-        self.location    = "In the Matrix 🌐"
-        self.status      = "Always building. Never sleeping."
-        self.stack       = ["Web", "Backend", "DevOps", "Mobile", "Security"]
-        self.languages   = ["JavaScript", "TypeScript", "Go", "Rust", "Python", "Dart"]
-        self.frameworks  = ["React", "Node.js", "Flutter", "FastAPI", "Gin", "Actix"]
-        self.devops      = ["Docker", "Kubernetes", "CI/CD", "Linux", "Cloud"]
-        self.interests   = ["System Design", "CTF", "Open Source", "Low-level hacking"]
-
-    def current_mission(self):
-        return ">>> Breaking things to build better ones 💀"
-
-    def __str__(self):
-        return f"[{self.alias}] :: root access granted."
-
-me = ShadoW7452()
-print(me.current_mission())
-# >>> Breaking things to build better ones 💀
+```
+\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+\u2551  > NAME     : Your Name                                      \u2551
+\u2551  > ROLE     : Data Scientist & AI/ML Engineer                \u2551
+\u2551  > LOCATION : Your City, Country \ud83c\udf0d                          \u2551
+\u2551  > FOCUS    : Building Intelligent Systems & LLM Apps        \u2551
+\u2551  > STATUS   : [ \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591 ] Training Model...     \u2551
+\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
 ```
 
 ---
 
-<div align="center">
-
 ```bash
-[root@shadow ~]$ ls -la /skills/
+$ cat skills.txt
 ```
 
-</div>
+### \ud83e\udde0 &nbsp; AI / ML / Data Science
 
-### `// FRONTEND //`
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00FF41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00FF41)
 
-<div align="center">
+### \ud83d\udcca &nbsp; Data & Analytics
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff41)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF41)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41)
+![Apache Spark](https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 
-</div>
+### \u2601\ufe0f &nbsp; Cloud & MLOps
 
-### `// BACKEND //`
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 
-<div align="center">
+---
 
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ff41)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
-![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00ff41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff41)
-
-</div>
-
-### `// DEVOPS & CLOUD //`
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff41)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ff41)
-![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=00ff41)
-
-</div>
-
-### `// MOBILE //`
+```bash
+$ git log --stat
+```
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff41)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=terminal&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=00FF41)
 
 </div>
 
 ---
 
-<div align="center">
-
 ```bash
-[root@shadow ~]$ ./fetch_github_stats.sh --user ShadoW7452
+$ cat activity_graph.log
 ```
 
-<br/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=39d353&ring_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=39d353"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=39d353&currStreakNum=ffffff&sideNums=ffffff&dates=39d353" alt="GitHub Streak"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=chartreuse-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<div align="center">
-
 ```bash
-[root@shadow ~]$ cat /proc/activity_graph
+$ ./connect.sh --all-platforms
 ```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadoW7452&theme=matrix&hide_border=true&bg_color=0d1117&line=00ff41&point=00ff41&color=39d353&area=true&area_color=003B00" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
-```bash
-[root@shadow ~]$ ping -c 1 shadow.dev
-```
-
-### 💀 `REACH ME IN THE DARK`
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/ShadoW7452)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/ShadoW7452)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/ShadoW7452)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.com/users/ShadoW7452)
-
-```
-> Connection established.
-> Packet loss: 0%
-> Latency: [CLASSIFIED]
-> Status: ONLINE 🟢
-```
-
-</div>
-
----
-
-<div align="center">
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-```bash
-[root@shadow ~]$ ./render_contribution_snake.sh
-```
-
-<!-- Enable this by setting up the snake workflow in your repo -->
-<img src="https://github.com/ShadoW7452/ShadoW7452/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<br/><br/>
-
-```
-[root@shadow ~]$ uptime
-> System has been running since: [REDACTED]
-> Tasks completed: ∞
-> Threats neutralized: countless
-> Coffee consumed: [OVERFLOW ERROR]
-```
-
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003B00,100:000000&height=120&section=footer&text=SYSTEM+SECURE&fontSize=20&fontColor=00ff41&animation=glitch&fontAlignY=70"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/USERNAME)
+[![Kaggle](https://img.shields.
