@@ -25,7 +25,7 @@ Bug Bounty Hunter
 
 ---
 
-🧠 Recon Modules
+🔴 Recon Modules
 
 ┌──(shadow㉿recon)-[~/modules]
 └─$ ls
@@ -39,7 +39,7 @@ file-upload-exploitation
 
 ---
 
-🛠 Tools Arsenal
+🔴 Tools Arsenal
 
 ┌──(shadow㉿tools)-[~/arsenal]
 └─$ cat tools.txt
@@ -55,7 +55,7 @@ git
 
 ---
 
-🚀 Projects
+🔴 Projects
 
 ┌──(shadow㉿github)-[~/projects]
 └─$ ls
@@ -68,7 +68,7 @@ proxydroid
 
 ---
 
-📡 Recon Progress
+🔴 Recon Progress
 
 Recon Automation      ███████████████░░░░ 80%
 Web Pentesting        ██████████████░░░░░ 75%
@@ -96,7 +96,7 @@ facebook   → https://facebook.com/ShadoW7452
 
 ---
 
-⚔️ Philosophy
+🔴 Philosophy
 
 ┌──(shadow㉿mindset)-[~/rules]
 └─$ cat philosophy.txt
