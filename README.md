@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ ShadoW7452</h1><p align="center">
+<h1 align="center">🟢 ShadoW7452 🟢</h1><p align="center">
 <img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=brightgreen&style=flat"/>
 </p><p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Initializing+Recon+System...;Scanning+Attack+Surface...;Pentester+%7C+Bug+Bounty+Hunter;Building+Offensive+Security+Tools"/>
