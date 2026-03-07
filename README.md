@@ -1,116 +1,101 @@
-<h1 align="center">⚔️ ShadoW7452 ⚔️</h1>
+<h1 align="center">⚔️ ShadoW7452</h1><p align="center">
+Offensive Security • Pentester • Bug Bounty Hunter
+</p><p align="center">
+Recon | Web Security | Exploit Research | Security Tool Development
+</p><p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=700&lines=Web+Security+Researcher;Bug+Bounty+Hunter;Recon+Automation+Developer;Offensive+Security+Tools"/>
+</p>---
 
-<p align="center">
-<b>Recon in Progress | Web Security | Pentester | Bug Bounty Hunter</b>
-</p>
+👨‍💻 About
 
-<p align="center">
-Think offensive. Build defensive. Recon. Enumerate. Test. Report.
-</p>
+Security researcher focused on web application security and bug bounty hunting.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Web+Security+Researcher;Bug+Bounty+Hunter;Pentester+Recon+Automation;Building+Tools+for+Hackers+and+Defenders"/>
-</p>
+Main interests:
 
----
+• Recon Automation
+• Attack Surface Mapping
+• API Security
+• IDOR & Access Control
+• File Upload Vulnerabilities
+• Offensive Security Tooling
 
-# 🧠 About Me
-
-Name : ShadoW7452  
-Role : Pentester | Bug Bounty Hunter | Security Researcher  
-Focus : Web Security, Recon Automation, API Testing, IDOR, Upload Vulnerabilities  
-Specialty : Offensive Security Tools  
-
-Status : Recon in progress...
+Currently building tools for pentesters and bug bounty hunters.
 
 ---
 
-# 🎯 Current Focus
+⚡ Arsenal
 
-• Web Application Security  
-• Recon Automation  
-• Attack Surface Discovery  
-• API Security Testing  
-• File Upload Vulnerabilities  
-• IDOR / Access Control Bugs  
-• Bug Bounty Tool Development  
-
----
-
-# 🛠️ Arsenal
-
-### Languages
+Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,bash,js,php,html,css"/>
-</p>
-
-### Tools
+<img src="https://skillicons.dev/icons?i=python,go,bash,js,php"/>
+</p>Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
-</p>
+</p>Security Focus
+
+Web Pentesting
+Recon Automation
+API Testing
+Authorization Testing
+Bug Bounty Hunting
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
-🔍 D0rk-Supr3me  
-Google dorking and recon toolkit.
+🔎 D0rk-Supr3me
 
-🕶 Ph4NT0m-R3c0N  
+Advanced Google dorking and recon toolkit.
+
+👻 Ph4NT0m-R3c0N
+
 Recon framework for bug bounty hunters.
 
-📤 UpL04D-HuNT3R  
-Upload endpoint discovery tool.
+📤 UpL04D-HuNT3R
 
-🧬 meta-idor-hunter  
-Tool for finding IDOR vulnerabilities.
+File upload vulnerability discovery tool.
 
-📱 proxydroid  
-Android web debugging tool.
+🧬 meta-idor-hunter
 
----
+IDOR detection and testing toolkit.
 
-# 📊 GitHub Stats
+📱 proxydroid
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact"/>
-
-</p>
+Android web debugging and proxy utility.
 
 ---
 
-# 🧭 Philosophy
+📊 GitHub Stats
 
-Recon first  
-Noise later  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&theme=tokyonight"/></p><p align="center">
+<img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=tokyonight"/>
+</p>---
 
-Automate what is repeatable  
-Think like an attacker  
-Validate like a researcher  
+🌐 Connect
 
----
+Portfolio
+https://aegis-portfolio-pink.vercel.app
 
-# 🌍 Connect
-
-Portfolio  
-https://aegis-portfolio-pink.vercel.app/#skills
-
-YouTube  
+YouTube
 https://www.youtube.com/@ShadoW7452
 
-Instagram  
+Instagram
 https://instagram.com/ShadoW7452
 
-Facebook  
+Facebook
 https://facebook.com/ShadoW7452
 
 ---
 
-Stay stealthy.  
-Hack ethically.  
-Keep hunting.
+⚔️ Philosophy
+
+Recon first
+Enumerate everything
+Automate what is repeatable
+Exploit responsibly
+
+---
+
+⭐ Building tools for the offensive security community.
