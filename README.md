@@ -1,4 +1,5 @@
-<h1 align="center">⚔️ ShadoW7452</h1><p align="center">
+<h1 align="center">
+  🥷🏻ShadoW7452🥷🏻</h1><p align="center">
 Offensive Security • Pentester • Bug Bounty Hunter
 </p><p align="center">
 Recon | Web Security | Exploit Research | Security Tool Development
