@@ -1,34 +1,23 @@
-<h1 align="center">🟢 SHADOW7452 SYSTEM INITIALIZING 🟢</h1><p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=MATRIX%20RED%20TEAM&fontSize=40&fontColor=00ff00"/>
+<h1 align="center">🟢 SHADOW7452 🟢</h1><p align="center">
+Red Team | Pentester | Bug Bounty Hunter
 </p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Booting+Security+System...;Loading+Pentester+Modules...;Initializing+Recon+Engine...;Access+Granted"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Red+Team+Operator;Pentester;Bug+Bounty+Hunter;Web+Security+Researcher;Always+Learning+Always+Hunting"/>
 </p>---
-
-🖥 SYSTEM BOOT
-
-Boot sequence initiated...
-Loading kernel modules...
-Connecting to network...
-Starting reconnaissance engine...
-
-User: ShadoW7452
-Role: Red Team Operator
-Status: ACTIVE
-
----
 
 🧠 WHOAMI
 
 ┌──(shadow㉿matrix)-[~/]
 └─$ whoami
 
-Pentester
-Bug Bounty Hunter
-Security Researcher
+Name : ShadoW7452
+Role : Red Team Operator
+Focus: Web Security / Bug Bounty
+OS   : Linux
+Status : Hunting vulnerabilities...
 
 ---
 
-⚔️ CORE SKILLS
+⚔️ SKILLS
 
 Reconnaissance
 Subdomain Enumeration
@@ -39,20 +28,20 @@ Payload Crafting
 
 ---
 
-🧰 TOOLS ARSENAL
+🧰 TOOLS
 
 Burp Suite
 Nmap
 SQLmap
 Nuclei
 FFUF
-Metasploit
 Subfinder
 Amass
+Metasploit
 
 ---
 
-💻 PROGRAMMING
+💻 LANGUAGES
 
 Python
 Bash
@@ -69,31 +58,41 @@ YesWeHack
 
 ---
 
-📊 GITHUB STATS
+🧬 METHODOLOGY
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=chartreuse-dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&theme=chartreuse-dark"></p>---
-
-🔥 ACTIVITY
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadoW7452&theme=chartreuse-dark"></p>---
-
-👁 VISITOR COUNTER
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=00ff00&style=for-the-badge"></p>---
-
-🧬 TARGET REPOSITORIES
-
-recon-automation
-bugbounty-checklist
-xss-payloads
-nuclei-templates
-pentest-scripts
-subdomain-tools
+Recon → Enumeration → Fuzzing → Exploitation → Validation → Report
 
 ---
 
-☠️ SYSTEM MESSAGE
+📊 GITHUB STATS
 
-Security is not a product.
-Security is a process.
-And every system has a weakness.
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=chartreuse-dark&hide_border=true"/></p>---
+
+💻 TOP LANGUAGES
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&theme=chartreuse-dark&hide_border=true"/></p>---
+
+📌 FEATURED REPOSITORIES
+
+proxydroid
+D0rk-Supr3me
+meta-idor-hunter
+Ph4NT0m-R3c0N
+UpL04D-HuNT3R
+
+---
+
+☠️ SECURITY QUOTE
+
+«"Security is not about trust.
+It is about verification."»
+
+---
+
+🖥 TERMINAL
+
+root@matrix:~# recon
+root@matrix:~# enumerate
+root@matrix:~# exploit
+root@matrix:~# report
+root@matrix:~# repeat
