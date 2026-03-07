@@ -1,63 +1,66 @@
-<h1 align="center">
-  🥷🏻ShadoW7452🥷🏻</h1><p align="center">
-Offensive Security • Pentester • Bug Bounty Hunter
-</p><p align="center">
-Recon | Web Security | Exploit Research | Security Tool Development
-</p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=blue&style=flat"/>
-</p>---
+<h1 align="center">ShadoW7452</h1><p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=green&style=flat"/>
+</p><pre>
+███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
+███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
+╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
+███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
+</pre>---
 
-🧠 About
+┌──(shadow㉿github)-[~/profile]
+└─$ whoami
+ShadoW7452
 
-Security researcher focusing on web application security and bug bounty hunting.
-
-Main interests:
-
-Recon Automation
-Attack Surface Discovery
-API Security
-IDOR Vulnerabilities
-File Upload Exploitation
-
-Developing tools for pentesters and bug bounty researchers.
+┌──(shadow㉿github)-[~/profile]
+└─$ role
+Offensive Security Researcher
+Pentester
+Bug Bounty Hunter
 
 ---
 
-⚡ Arsenal
+🧠 Recon
 
-Languages
+┌──(shadow㉿recon)-[~/focus]
+└─$ ls
 
-Python
-Go
-Bash
-JavaScript
-PHP
+web-application-security
+recon-automation
+attack-surface-discovery
+api-security-testing
+idor-vulnerabilities
+file-upload-exploitation
 
-Platforms
+---
 
-Linux
-Git
-Docker
-VSCode
+🛠 Arsenal
+
+┌──(shadow㉿tools)-[~/arsenal]
+└─$ cat tools.txt
+
+python
+go
+bash
+javascript
+php
+linux
+docker
+git
 
 ---
 
 🚀 Projects
 
-🔎 D0rk-Supr3me
-Google dorking and reconnaissance toolkit.
+┌──(shadow㉿github)-[~/projects]
+└─$ ls
 
-👻 Ph4NT0m-R3c0N
-Attack surface discovery framework.
-
-📤 UpL04D-HuNT3R
-Upload vulnerability discovery tool.
-
-🧬 meta-idor-hunter
-IDOR testing toolkit.
-
-📱 proxydroid
-Android proxy and debugging tool.
+D0rk-Supr3me
+Ph4NT0m-R3c0N
+UpL04D-HuNT3R
+meta-idor-hunter
+proxydroid
 
 ---
 
@@ -67,23 +70,22 @@ Android proxy and debugging tool.
 <img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=tokyonight"/>
 </p>---
 
-🌐 Connect
+🌐 Network
 
-Portfolio
-https://aegis-portfolio-pink.vercel.app
+┌──(shadow㉿network)-[~/links]
+└─$ connect
 
-YouTube
-https://www.youtube.com/@ShadoW7452
-
-Instagram
-https://instagram.com/ShadoW7452
-
-Facebook
-https://facebook.com/ShadoW7452
+portfolio  → https://aegis-portfolio-pink.vercel.app
+youtube    → https://www.youtube.com/@ShadoW7452
+instagram  → https://instagram.com/ShadoW7452
+facebook   → https://facebook.com/ShadoW7452
 
 ---
 
 ⚔️ Philosophy
+
+┌──(shadow㉿mindset)-[~/rules]
+└─$ cat philosophy.txt
 
 Recon first
 Enumerate everything
@@ -92,4 +94,5 @@ Exploit responsibly
 
 ---
 
-⭐ Building tools for the offensive security community
+┌──(shadow㉿github)-[~/status]
+└─$ echo "Stay stealthy. Keep hunting."
