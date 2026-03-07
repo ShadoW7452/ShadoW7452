@@ -1,24 +1,24 @@
 <h1 align="center">⚔️ ShadoW7452</h1><p align="center">
 Offensive Security • Pentester • Bug Bounty Hunter
 </p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=blue&style=flat"/>
+Recon | Web Security | Exploit Research | Security Tool Development
 </p><p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=650&lines=Recon+Automation;Web+Security+Researcher;Bug+Bounty+Hunter;Offensive+Security+Tools"/>
+<img src="https://komarev.com/ghpvc/?username=ShadoW7452&color=blue&style=flat"/>
 </p>---
 
 🧠 About
 
-Security researcher focused on web application security and bug bounty hunting.
+Security researcher focusing on web application security and bug bounty hunting.
 
 Main interests:
 
 Recon Automation
-Attack Surface Mapping
+Attack Surface Discovery
 API Security
-IDOR & Access Control
-File Upload Vulnerabilities
+IDOR Vulnerabilities
+File Upload Exploitation
 
-Building tools for pentesters and bug bounty hunters.
+Developing tools for pentesters and bug bounty researchers.
 
 ---
 
@@ -26,36 +26,45 @@ Building tools for pentesters and bug bounty hunters.
 
 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,go,bash,js,php"/>
-</p>Tools
+Python
+Go
+Bash
+JavaScript
+PHP
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
-</p>---
+Platforms
+
+Linux
+Git
+Docker
+VSCode
+
+---
 
 🚀 Projects
 
 🔎 D0rk-Supr3me
-Recon & Google dork automation toolkit
+Google dorking and reconnaissance toolkit.
 
 👻 Ph4NT0m-R3c0N
-Attack surface discovery framework
+Attack surface discovery framework.
 
 📤 UpL04D-HuNT3R
-Upload vulnerability discovery tool
+Upload vulnerability discovery tool.
 
 🧬 meta-idor-hunter
-IDOR testing and detection toolkit
+IDOR testing toolkit.
 
 📱 proxydroid
-Android proxy & debugging utility
+Android proxy and debugging tool.
 
 ---
 
-📊 GitHub Stats
+📊 Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShadoW7452&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoW7452&layout=compact&theme=tokyonight"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=tokyonight"/></p>---
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ShadoW7452&theme=tokyonight"/>
+</p>---
 
 🌐 Connect
 
